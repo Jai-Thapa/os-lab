@@ -62,7 +62,3 @@ C, GCC, Linux/Unix, and GitHub.
 ### Reference
 
 Operating Systems Laboratory Manual, Academic Session 2026–27.
-
-### Notes
-
-[OS Lab notes on Google Drive](https://drive.google.com/drive/folders/1cgoAxjrQ6s09EXEoFg5ZmxytkWOAT7B0?usp=sharing)
